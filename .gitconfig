@@ -1,0 +1,7 @@
+[user]
+	name = Galang Aidil Akbar
+	email = galang@fabindonesia.com
+[core]
+	editor = nvim
+[commit]
+	template = /Users/galang/.gitmessage.txt
